@@ -370,19 +370,19 @@ menu ()
 
 # Output dari Program diatas
 1. **Tambah Data**
-![gambar](Screenshot/1%20(4).png)
+![gambar](Screenshot/1%20(4).jpeg)
 
 2. **Lihat Data**
-![gambar](Screenshot/1%20(3).png)
+![gambar](Screenshot/1%20(3).jpeg)
 
 3. **Ubah Data**
-![gambar](Screenshot/1%20(1).png)
+![gambar](Screenshot/1%20(1).jpeg)
 
 4. **Hapus Data**
-![gambar](Screenshot/1%20(2).png)
+![gambar](Screenshot/1%20(2).jpeg)
 
 5. **Keluar Program**
-![gambar](Screenshot/5.png)
+![gambar](Screenshot/5.jpeg)
 
 ## TERIMAKASIH :)
 
