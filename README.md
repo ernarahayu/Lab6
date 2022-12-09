@@ -1,5 +1,5 @@
 Pertemuan 11
-
+## Fungsi
 Penjelasan tentang fungsi def adalah kumpulan perintah atau baris kode yang dikelompokkan menjadi satu kesatuan untuk kemudian bisa dipanggil atau digunakan berkali-kali. Sebuah fungsi bisa menerima parameter, bisa mengembalikan suatu nilai, dan bisa dipanggil berkali-kali secara independen. Dengan fungsi kita bisa memecah program besar yang kita tulis, menjadi bagian-bagian kecil dengan tugasnya masing-masing. Juga, fungsi akan membuat kode program kita menjadi lebih “reusable” dan lebih terstruktur
 
 Di dalam python, sintaks pembuatan fungsi terlihat seperti berikut :
@@ -368,6 +368,22 @@ menu ()
 # Flowchart dari Program diatas
 ![gambar](screenshot/flow.jpeg)
 
+# Output dari Program diatas
+1. **Tambah Data**
+![gambar](Screenshot/1%20(4).png)
 
+2. **Lihat Data**
+![gambar](Screenshot/1%20(3).png)
+
+3. **Ubah Data**
+![gambar](Screenshot/1%20(1).png)
+
+4. **Hapus Data**
+![gambar](Screenshot/1%20(2).png)
+
+5. **Keluar Program**
+![gambar](Screenshot/5.png)
+
+## TERIMAKASIH :)
 
 
